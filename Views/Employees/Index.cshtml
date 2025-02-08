@@ -1,0 +1,28 @@
+﻿@model IEnumerable<LearningMVC.Models.DomainModel.Employee>
+
+<h1>Employees</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Date of Birth</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var employee in Model)
+        {
+            <tr>
+                <td>@employee.Id</td>
+                <td>@employee.Name</td>
+                <td>@employee.Email</td>
+                <td>@employee.DateOfBirth.ToString("yyyy-MM-dd")</td> <!-- Format Date -->
+                <td>@employee.Department</td>
+                <td><a href="Employees/View/@employee.Id">View</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manoj\\OneDrive\\Documents\\LearningMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{234ADB0A-C7CA-4073-857A-317438C017A9}|LearningMVC.csproj|c:\\users\\manoj\\onedrive\\documents\\learningmvc\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234ADB0A-C7CA-4073-857A-317438C017A9}|LearningMVC.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234ADB0A-C7CA-4073-857A-317438C017A9}|LearningMVC.csproj|c:\\users\\manoj\\onedrive\\documents\\learningmvc\\views\\employees\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{234ADB0A-C7CA-4073-857A-317438C017A9}|LearningMVC.csproj|solutionrelative:views\\employees\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234ADB0A-C7CA-4073-857A-317438C017A9}|LearningMVC.csproj|c:\\users\\manoj\\onedrive\\documents\\learningmvc\\models\\updateemployeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234ADB0A-C7CA-4073-857A-317438C017A9}|LearningMVC.csproj|solutionrelative:models\\updateemployeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234ADB0A-C7CA-4073-857A-317438C017A9}|LearningMVC.csproj|c:\\users\\manoj\\onedrive\\documents\\learningmvc\\views\\employees\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{234ADB0A-C7CA-4073-857A-317438C017A9}|LearningMVC.csproj|solutionrelative:views\\employees\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234ADB0A-C7CA-4073-857A-317438C017A9}|LearningMVC.csproj|c:\\users\\manoj\\onedrive\\documents\\learningmvc\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{234ADB0A-C7CA-4073-857A-317438C017A9}|LearningMVC.csproj|solutionrelative:views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234ADB0A-C7CA-4073-857A-317438C017A9}|LearningMVC.csproj|c:\\users\\manoj\\onedrive\\documents\\learningmvc\\models\\addemployeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234ADB0A-C7CA-4073-857A-317438C017A9}|LearningMVC.csproj|solutionrelative:models\\addemployeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234ADB0A-C7CA-4073-857A-317438C017A9}|LearningMVC.csproj|c:\\users\\manoj\\onedrive\\documents\\learningmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{234ADB0A-C7CA-4073-857A-317438C017A9}|LearningMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\manoj\\OneDrive\\Documents\\LearningMVC\\Views\\Employees\\View.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\View.cshtml",
+              "ToolTip": "C:\\Users\\manoj\\OneDrive\\Documents\\LearningMVC\\Views\\Employees\\View.cshtml",
+              "RelativeToolTip": "Views\\Employees\\View.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T10:32:32.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\manoj\\OneDrive\\Documents\\LearningMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\manoj\\OneDrive\\Documents\\LearningMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T05:44:53.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\manoj\\OneDrive\\Documents\\LearningMVC\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\manoj\\OneDrive\\Documents\\LearningMVC\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T05:33:55.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddEmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\manoj\\OneDrive\\Documents\\LearningMVC\\Models\\AddEmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\AddEmployeeViewModel.cs",
+              "ToolTip": "C:\\Users\\manoj\\OneDrive\\Documents\\LearningMVC\\Models\\AddEmployeeViewModel.cs",
+              "RelativeToolTip": "Models\\AddEmployeeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T04:57:08.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\manoj\\OneDrive\\Documents\\LearningMVC\\Views\\Employees\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Add.cshtml",
+              "ToolTip": "C:\\Users\\manoj\\OneDrive\\Documents\\LearningMVC\\Views\\Employees\\Add.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Add.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T04:46:41.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\manoj\\OneDrive\\Documents\\LearningMVC\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\manoj\\OneDrive\\Documents\\LearningMVC\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T04:44:38.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateEmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\manoj\\OneDrive\\Documents\\LearningMVC\\Models\\UpdateEmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\UpdateEmployeeViewModel.cs",
+              "ToolTip": "C:\\Users\\manoj\\OneDrive\\Documents\\LearningMVC\\Models\\UpdateEmployeeViewModel.cs",
+              "RelativeToolTip": "Models\\UpdateEmployeeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:37:15.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
