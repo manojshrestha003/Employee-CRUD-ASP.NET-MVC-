@@ -28,8 +28,8 @@ Employee-CRUD-ASP.NET-MVC/
 │── Views/              # Razor views
 │── Migrations/         # EF Core migrations
 │── Data/               # Database context
-│── wwwroot/            # Static files (css, js, images)
-│── appsettings.json    # Configuration (do not expose secrets)
+│── wwwroot/            # Static files (css, js)
+│── appsettings.json    # Configuration 
 │── Program.cs          # Application entry point
 │── Startup.cs          # Middleware & services setup
 ```
@@ -37,5 +37,6 @@ Employee-CRUD-ASP.NET-MVC/
 
 Manoj Shrestha
 https://www.shrestha-manoj.com.np
+
 
 
